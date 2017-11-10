@@ -156,5 +156,6 @@
 
   TableHead.init = function() {
     this.element = document.createElement('thead');
+    this
   }
 })();
